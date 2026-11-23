@@ -12,7 +12,7 @@
 ## 📌 Sobre Mim
 
 - 📚 Estudante de **Engenharia de Software na PUC-Campinas**
-- ⚡ Foco em **desenvolvimento e web**
+- ⚡ Foco em **desenvolvimento e dados**
 - 🌱 Sempre buscando evolução técnica e acadêmica
 
 ---
